@@ -1,0 +1,477 @@
+[
+  {
+    "url": "http://www.abdn.ac.uk/", 
+    "titleOriginal": "abdn", 
+    "name": "abdn", 
+    "children": [
+      {
+        "url": "http://www.abdn.ac.uk/business/", 
+        "titleOriginal": "Business School | The University of Aberdeen", 
+        "name": "Business School", 
+        "children": [
+          {
+            "url": "http://www.abdn.ac.uk/business/research/departments-74.php#accountancy", 
+            "titleOriginal": "Department Information | Business School | The University of Aberdeen", 
+            "name": "Department Information", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/business/research/profiles/c.g.alawattage", 
+                "titleOriginal": "Dr Chandana Alawattage | Staff Profile | The University of Aberdeen", 
+                "name": "Dr Chandana Alawattage"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/business/research/departments-74.php#economics", 
+            "titleOriginal": "Department Information | Business School | The University of Aberdeen", 
+            "name": "Department Information", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/business/people/profiles/n.anomelechi", 
+                "titleOriginal": "Dr NDUBUISI ANOMELECHI-ONYEODI | Staff Profile | The University of Aberdeen", 
+                "name": "Dr NDUBUISI ANOMELECHI"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/business/research/departments-74.php#busman", 
+            "titleOriginal": "Department Information | Business School | The University of Aberdeen", 
+            "name": "Department Information", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/business/research/profiles/jing.cai", 
+                "titleOriginal": "Dr Jing Cai | Staff Profile | The University of Aberdeen", 
+                "name": "Dr Jing Cai"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "url": "http://www.abdn.ac.uk/cass/", 
+        "titleOriginal": "The College of Arts and Social Sciences | The University of Aberdeen", 
+        "name": "The College of Arts and Social Sciences", 
+        "children": [
+          {
+            "url": "http://www.abdn.ac.uk/sdhp/", 
+            "titleOriginal": "The School of Divinity, History and Philosophy  | The University of Aberdeen", 
+            "name": "The School of Divinity", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/sdhp/divinity-religious-studies/index.php", 
+                "titleOriginal": "Divinity and Religious Studies | The School of Divinity, History and Philosophy  | The University of Aberdeen", 
+                "name": "Divinity and Religious Studies", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sdhp/divinity-religious-studies/profiles/t.bokedal", 
+                    "titleOriginal": "Dr TOMAS BOKEDAL | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr TOMAS BOKEDAL"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sdhp/history/index.php", 
+                "titleOriginal": "History | The School of Divinity, History and Philosophy  | The University of Aberdeen", 
+                "name": "History", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sdhp/history/profiles/j.armstrong", 
+                    "titleOriginal": "Dr JACKSON ARMSTRONG | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr JACKSON ARMSTRONG"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sdhp/history-art/index.php", 
+                "titleOriginal": "History of Art | The School of Divinity, History and Philosophy  | The University of Aberdeen", 
+                "name": "History of Art", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sdhp/history-art/profiles/j.gash", 
+                    "titleOriginal": "Mr John Gash | Staff Profile | The University of Aberdeen", 
+                    "name": "Mr John Gash"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sdhp/disciplines/scandinavian-studies-352.php", 
+                "titleOriginal": "Scandinavian Studies | The School of Divinity, History and Philosophy  | The University of Aberdeen", 
+                "name": "Scandinavian Studies", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sdhp/disciplines/profiles/a.bokedal", 
+                    "titleOriginal": "Mrs ANNA BOKEDAL | Staff Profile | The University of Aberdeen", 
+                    "name": "Mrs ANNA BOKEDAL"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sdhp/philosophy/index.php", 
+                "titleOriginal": "Philosophy | The School of Divinity, History and Philosophy  | The University of Aberdeen", 
+                "name": "Philosophy", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sdhp/philosophy/profiles/g.hough", 
+                    "titleOriginal": "Dr Gerard Hough | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr Gerard Hough"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/education/", 
+            "titleOriginal": "Education | The University of Aberdeen", 
+            "name": "Education", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/staffnet/profiles/y.dewhurst", 
+                "titleOriginal": "Mrs Yvonne Dewhurst | Staff Profile | The University of Aberdeen", 
+                "name": "Mrs Yvonne Dewhurst"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/sll/", 
+            "titleOriginal": "The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+            "name": "The School of Language", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/celtic-anglo-saxon/index.php", 
+                "titleOriginal": "Celtic and Anglo-Saxon Studies | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Celtic and Anglo", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/celtic-anglo-saxon/profiles/a.oleary", 
+                    "titleOriginal": "Dr Aideen O'Leary | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr Aideen O'Leary"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/english/index.php", 
+                "titleOriginal": "English | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "English", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/english/profiles/t.c.baker", 
+                    "titleOriginal": "Dr TIMOTHY BAKER | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr TIMOTHY BAKER"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/film/index.php", 
+                "titleOriginal": "Department of Film and Visual Culture | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Department of Film and Visual Culture", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/film/profiles/silvia.casini", 
+                    "titleOriginal": "Dr SILVIA CASINI | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr SILVIA CASINI"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/french/index.php", 
+                "titleOriginal": "French and Francophone Studies | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "French and Francophone Studies", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/french/profiles/n.kiwan", 
+                    "titleOriginal": "Dr Nadia Kiwan | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr Nadia Kiwan"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/gaelic/index.php", 
+                "titleOriginal": "Gaelic Studies / Eòlas Gàidhlig | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Gaelic Studies / Eòlas Gàidhlig"
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/german/index.php", 
+                "titleOriginal": "German Studies | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "German Studies", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/german/profiles/tara.beaney", 
+                    "titleOriginal": "Ms TARA BEANEY | Staff Profile | The University of Aberdeen", 
+                    "name": "Ms TARA BEANEY"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/spanish/index.php", 
+                "titleOriginal": "Spanish and Latin American Studies | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Spanish and Latin American Studies", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/spanish/profiles/jbarker", 
+                    "titleOriginal": "Dr JESSE BARKER | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr JESSE BARKER"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/langling/index.php", 
+                "titleOriginal": "Language and Linguistics | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Language and Linguistics", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/langling/profiles/w.s.barras", 
+                    "titleOriginal": "Dr WILLIAM BARRAS | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr WILLIAM BARRAS"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/lwc/index.php", 
+                "titleOriginal": "Literature in a World Context | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Literature in a World Context", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/lwc/profiles/edward.welch", 
+                    "titleOriginal": "Professor EDWARD WELCH | Staff Profile | The University of Aberdeen", 
+                    "name": "Professor EDWARD WELCH"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/music-591.php", 
+                "titleOriginal": "Music | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Music", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/music/people/profiles/f.jurgensen", 
+                    "titleOriginal": "Dr FRAUKE JURGENSEN | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr FRAUKE JURGENSEN"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/sll/disciplines/sustained-studies-programme-languages-418.php", 
+                "titleOriginal": "Sustained Studies - Languages | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                "name": "Sustained Studies", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/arabic-419.php", 
+                    "titleOriginal": "Arabic | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "Arabic"
+                  }, 
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/french-420.php", 
+                    "titleOriginal": "French | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "French"
+                  }, 
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/gaelic-421.php", 
+                    "titleOriginal": "Gaelic | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "Gaelic"
+                  }, 
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/german-422.php", 
+                    "titleOriginal": "German | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "German"
+                  }, 
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/mandarin-423.php", 
+                    "titleOriginal": "Mandarin | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "Mandarin"
+                  }, 
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/spanish-424.php", 
+                    "titleOriginal": "Spanish | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "Spanish"
+                  }, 
+                  {
+                    "url": "http://www.abdn.ac.uk/sll/disciplines/swedish-425.php", 
+                    "titleOriginal": "Swedish | The School of Language, Literature, Music and Visual Culture | The University of Aberdeen", 
+                    "name": "Swedish"
+                  }
+                ]
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/law/", 
+            "titleOriginal": "School of Law | The University of Aberdeen", 
+            "name": "School of Law", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/law/people/profiles/d.auchie", 
+                "titleOriginal": "Mr DEREK AUCHIE | Staff Profile | The University of Aberdeen", 
+                "name": "Mr DEREK AUCHIE"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/socsci", 
+            "titleOriginal": "The School of Social Science | The University of Aberdeen", 
+            "name": "The School of Social Science", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/socsci/disciplines/sociology/index.php", 
+                "titleOriginal": "Introducing Sociology at Aberdeen | The School of Social Science | The University of Aberdeen", 
+                "name": "Introducing Sociology at Aberdeen", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/socsci/people/profiles/andrew.mckinnon", 
+                    "titleOriginal": "Dr ANDREW MCKINNON | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr ANDREW MCKINNON"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/socsci/disciplines/pir/index.php", 
+                "titleOriginal": "Politics and International Relations | The School of Social Science | The University of Aberdeen", 
+                "name": "Politics and International Relations", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/socsci/people/profiles/eva.herschinger", 
+                    "titleOriginal": "Dr EVA HERSCHINGER | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr EVA HERSCHINGER"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/socsci/disciplines/anthropology/index.php", 
+                "titleOriginal": "Anthropology | The School of Social Science | The University of Aberdeen", 
+                "name": "Anthropology", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/socsci/people/profiles/t.argounova-low", 
+                    "titleOriginal": "Dr Tatiana Argounova-Low | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr Tatiana Argounova"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "url": "http://www.abdn.ac.uk/clsm/", 
+        "titleOriginal": "The College of Life Sciences and Medicine | The University of Aberdeen", 
+        "name": "The College of Life Sciences and Medicine", 
+        "children": [
+          {
+            "url": "http://www.abdn.ac.uk/sbs/", 
+            "titleOriginal": "The School of Biological Sciences | The University of Aberdeen", 
+            "name": "The School of Biological Sciences", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/sbs/people/profiles/m.barker", 
+                "titleOriginal": "Dr Martin Barker | Staff Profile | The University of Aberdeen", 
+                "name": "Dr Martin Barker"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/smmsn/", 
+            "titleOriginal": "The School of Medicine, Medical Sciences and Nutrition | The University of Aberdeen", 
+            "name": "The School of Medicine"
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/psychology/", 
+            "titleOriginal": "The School of Psychology | The University of Aberdeen", 
+            "name": "The School of Psychology", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/psychology/people/profiles/k.allan", 
+                "titleOriginal": "Dr Kevin Allan | Staff Profile | The University of Aberdeen", 
+                "name": "Dr Kevin Allan"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "url": "http://www.abdn.ac.uk/cops/", 
+        "titleOriginal": "The College of Physical Sciences | The University of Aberdeen", 
+        "name": "The College of Physical Sciences", 
+        "children": [
+          {
+            "url": "http://www.abdn.ac.uk/engineering/", 
+            "titleOriginal": "School of Engineering | The University of Aberdeen", 
+            "name": "School of Engineering", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/engineering/people/profiles/waheed", 
+                "titleOriginal": "Dr WAHEED AFZAL | Staff Profile | The University of Aberdeen", 
+                "name": "Dr WAHEED AFZAL"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/geosciences/", 
+            "titleOriginal": "School of Geosciences | The University of Aberdeen", 
+            "name": "School of Geosciences", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/geosciences/people/profiles/m.beecroft", 
+                "titleOriginal": "Dr MARK BEECROFT | Staff Profile | The University of Aberdeen", 
+                "name": "Dr MARK BEECROFT"
+              }
+            ]
+          }, 
+          {
+            "url": "http://www.abdn.ac.uk/ncs/", 
+            "titleOriginal": "The School of Natural and Computing Sciences | The University of Aberdeen", 
+            "name": "The School of Natural and Computing Sciences", 
+            "children": [
+              {
+                "url": "http://www.abdn.ac.uk/ncs/people/chemistry-staff-243.php", 
+                "titleOriginal": "Chemistry Staff | The School of Natural and Computing Sciences | The University of Aberdeen", 
+                "name": "Chemistry Staff", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/ncs/people/ncs/profiles/j.anderson", 
+                    "titleOriginal": "Professor James Anderson | Staff Profile | The University of Aberdeen", 
+                    "name": "Professor James Anderson"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/ncs/people/computing-science-staff-245.php", 
+                "titleOriginal": "Computing Science Staff | The School of Natural and Computing Sciences | The University of Aberdeen", 
+                "name": "Computing Science Staff", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/ncs/people/profiles/n.beacham", 
+                    "titleOriginal": "Dr NIGEL BEACHAM | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr NIGEL BEACHAM"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/ncs/people/mathematics-staff-246.php", 
+                "titleOriginal": "Mathematics Staff | The School of Natural and Computing Sciences | The University of Aberdeen", 
+                "name": "Mathematics Staff", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/ncs/people/profiles/mark.grant", 
+                    "titleOriginal": "Dr MARK GRANT | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr MARK GRANT"
+                  }
+                ]
+              }, 
+              {
+                "url": "http://www.abdn.ac.uk/ncs/people/physics-staff-247.php", 
+                "titleOriginal": "Physics Staff | The School of Natural and Computing Sciences | The University of Aberdeen", 
+                "name": "Physics Staff", 
+                "children": [
+                  {
+                    "url": "http://www.abdn.ac.uk/ncs/departments/physics/people/profiles/g.m.dunn/", 
+                    "titleOriginal": "Dr Geoffrey Dunn | Staff Profile | The University of Aberdeen", 
+                    "name": "Dr Geoffrey Dunn"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
